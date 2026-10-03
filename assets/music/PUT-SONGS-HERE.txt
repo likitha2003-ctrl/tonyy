@@ -1,0 +1,4 @@
+Drop your songs here (files you have the rights to use):
+  wildest-dreams.mp3
+  cant-help-falling-in-love.mp3
+The site never autoplays. A small pill in the bottom-left corner lets him tap play.
